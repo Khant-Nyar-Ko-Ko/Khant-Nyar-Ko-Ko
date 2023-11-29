@@ -19,8 +19,8 @@
 <a href="https://codepen.io/KNKK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@knkk" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/khant-nyar-ko-ko-b993b3195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khant nyar ko ko" height="30" width="40" /></a>
 <a href="https://www.facebook.com/khantnyar.koko.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khant nyar ko ko" height="30" width="40" /></a>
-<a href="https://instagram.com/knkk_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knkk_2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khantnyar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khantnyar02" height="30" width="40" /></a>
+<a href="https://www.instagram.com/knkk_2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knkk_2002" height="30" width="40" /></a>
+<a href="https://leetcode.com/KhantNyar02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khantnyar02" height="30" width="40" /></a>
 </p>
 
 
