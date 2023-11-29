@@ -29,7 +29,7 @@
 
 
 <h3 align="left" display="blok">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kokhantnyar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kokhantnyar" /></a></p>
+<p><a href="https://www.buymeacoffee.com/kokhantnyar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kokhantnyar" /></a></p>
 
 <br><br><br><br>
 
