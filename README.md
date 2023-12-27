@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript, React, Java SE<br><br>👯 I’m looking to collaborate on open-source front-end projects<br><br>🤝 I’m looking for help with front-end projects with React JS<br><br>💬 Ask me about React JS and Java SE<br><br>📫 How to reach me kokhantnyar19@gmail.com<br>
+🌱 I’m currently learning JavaScript, React, Java SE<br><br>👯 I’m looking to collaborate on open-source front-end projects<br><br>🤝 I’m currently a remote front-end developer in Thailand<br><br>💬 Ask me about React JS and Java SE<br><br>📫 How to reach me kokhantnyar19@gmail.com<br>
 
 
 ## 🌐 Socials:
