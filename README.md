@@ -1,5 +1,5 @@
 # About Me:
-I’m looking to collaborate on open-source front-end projects<br><br> I’m currently a Front-End Developer as an intern at a company which is based in Chiang Mai<br><br>How to reach me kokhantnyar19@gmail.com<br>
+>>> I’m looking to collaborate on open-source front-end projects<br><br>>>> I’m currently a front-end developer as an intern at a company that is based in Chiang Mai.<br><br>>>> How to reach me kokhantnyar19@gmail.com<br>
 
 
 # Socials:
