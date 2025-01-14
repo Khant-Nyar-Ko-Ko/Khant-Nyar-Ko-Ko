@@ -4,8 +4,8 @@
 - How to reach me kokhantnyar19@gmail.com<br>
 
 # Project Demos:
-Project Demo : [Outpatient Monitoring System](https://drive.google.com/file/d/1SN-42gzeUXD-4oX-zcoBKxEOwjSYx5R5/view?usp=drivesdk)
-Project Link : [Outpatient Monitoring System](https://oms-app-237489682555.us-central1.run.app/)
+- Project Demo : [Outpatient Monitoring System](https://drive.google.com/file/d/1SN-42gzeUXD-4oX-zcoBKxEOwjSYx5R5/view?usp=drivesdk)
+- Project Link : [Outpatient Monitoring System](https://oms-app-237489682555.us-central1.run.app/)
 - Front-End : Next.JS, TypeScript, React
 - Back-End : Java Spring Boot
 - Database : MySQL
