@@ -4,8 +4,12 @@
 - How to reach me kokhantnyar19@gmail.com<br>
 
 # Project Demos:
-[Outpatient Minitoring System](https://drive.google.com/file/d/1SN-42gzeUXD-4oX-zcoBKxEOwjSYx5R5/view?usp=drivesdk)
-
+[Outpatient Monitoring System](https://drive.google.com/file/d/1SN-42gzeUXD-4oX-zcoBKxEOwjSYx5R5/view?usp=drivesdk)
+Front-End : Next.JS, TypeScript, React
+Back-End : Java Spring Boot
+Database : MySQL
+DBMS : H2 Engine
+Hosting : Google Cloud
 
 
 # Socials:
