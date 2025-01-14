@@ -3,8 +3,9 @@
 - I was a front-end developer as an intern at a company that is based in Chiang Mai.<br><br>
 - How to reach me kokhantnyar19@gmail.com<br>
 
-# Projects:
-[![OPD System](https://drive.google.com/file/d/1SN-42gzeUXD-4oX-zcoBKxEOwjSYx5R5/view?usp=drivesdk)]
+# Project Demos:
+[Outpatient Minitoring System](https://drive.google.com/file/d/1SN-42gzeUXD-4oX-zcoBKxEOwjSYx5R5/view?usp=drivesdk)
+
 
 
 # Socials:
