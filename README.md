@@ -4,7 +4,7 @@ A passionate front-end developer and software engineering student specializing i
 
 # About Me:
 -  I’m looking to collaborate on **open-source front-end projects**.
--  Previously, I worked as a **front-end developer intern** at a company based in Chiang Mai.
+-  Previously, I worked as a **front-end developer intern** at a local company.
 -  How to reach me: kokhantnyar19@gmail.com
 -  Porfolio : [KhantNyar.Dev](https://khantnyar-dev.vercel.app/)
 
