@@ -1,24 +1,12 @@
 # Hi, I'm Khant Nyar Ko Ko 👋
 
-A passionate front-end developer and software engineering student specializing in building clean, functional, and user-focused applications.
+A passionate software engineer specializing in building clean, functional, and user-focused applications.
 
 # About Me:
--  I’m looking to collaborate on **open-source front-end projects**.
--  Previously, I worked as a **front-end developer intern** at a local company.
+-  I’m looking to collaborate on **open-source full-stack projects**.
+-  Currently, I work as a **software engineer* at a local company.
 -  How to reach me: kokhantnyar19@gmail.com
 -  Porfolio : [KhantNyar.Dev](https://khantnyar-dev.vercel.app/)
-
-# Project Demos:
-- **Demo**: [Outpatient Monitoring System](https://drive.google.com/file/d/1SN-42gzeUXD-4oX-zcoBKxEOwjSYx5R5/view?usp=drivesdk)
-- **Live Project**: [Outpatient Monitoring System](https://oms-app-237489682555.us-central1.run.app/)
-- **Tech Stack**:
-  - **Front-End**: Next.js, TypeScript, React
-  - **Back-End**: Java Spring Boot
-  - **Database**: MySQL, H2 Engine
-  - **Hosting**: Google Cloud
-
-# Achievements:
-- 🏆 **First Prize** & **UI/UX Design Prize** at SE Hackathon 2024 (MFU) for "Personal Health Care."
 
 # Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
