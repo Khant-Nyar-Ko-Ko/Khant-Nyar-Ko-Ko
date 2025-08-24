@@ -4,7 +4,7 @@ A passionate software engineer specializing in building clean, functional, and u
 
 # About Me:
 -  I’m looking to collaborate on **open-source full-stack projects**.
--  Currently, I work as a **software engineer* at a local company.
+-  Currently, I work as a *software engineer* at a local company.
 -  How to reach me: kokhantnyar19@gmail.com
 -  Porfolio : [KhantNyar.Dev](https://khantnyar-dev.vercel.app/)
 
