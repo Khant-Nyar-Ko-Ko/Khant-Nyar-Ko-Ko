@@ -6,7 +6,7 @@ A passionate software engineer specializing in building clean, functional, and u
 -  I’m looking to collaborate on **open-source full-stack projects**.
 -  Currently, I work as a *software engineer* at a local company.
 -  How to reach me: kokhantnyar19@gmail.com
--  Porfolio : [KhantNyar.Dev](https://khantnyar-dev.vercel.app/)
+-  Porfolio : [KhantNyar.Dev](https://khantnyarkoko.vercel.app/)
 
 # Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
