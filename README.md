@@ -6,7 +6,6 @@ A full-stack software engineer building production-grade web applications — fr
 ## About Me
 
 - 🏢 Software Engineer at **ET.Verdict** — core engineer on Myanmar's first legal AI SaaS platform ([app.etverdict.com](https://app.etverdict.com))
-- 🎓 B.Eng. Software Engineering @ **Mae Fah Luang University**, Chiang Rai · GPAX 3.89
 - 🤝 Open to collaborating on **full-stack or DevOps open-source projects**
 - 📬 kokhantnyar19@gmail.com
 - 🌐 [khantnyarkoko.vercel.app](https://khantnyarkoko.vercel.app/)
@@ -42,6 +41,12 @@ A full-stack software engineer building production-grade web applications — fr
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=flat&logo=pytest&logoColor=2f9fe3)
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant-Nyar-Ko-Ko&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
