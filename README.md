@@ -46,7 +46,9 @@ A full-stack software engineer building production-grade web applications — fr
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant-Nyar-Ko-Ko&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Khant-Nyar-Ko-Ko&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant-Nyar-Ko-Ko&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
