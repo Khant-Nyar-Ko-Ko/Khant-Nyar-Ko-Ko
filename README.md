@@ -33,12 +33,37 @@ Currently shipping Myanmar's first legal AI SaaS platform while finishing my fin
 
 ## Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Keigo Companion** | Japanese keigo learning and practice app. Led the project end to end. `[confirm description]` | `[confirm stack]` |
-| **EcoPoint** | Sustainability rewards platform. `[confirm description]` | `[confirm stack]` |
-| **LifePath AI** | AI-assisted career and life planning tool. `[confirm description]` | `[confirm stack]` |
-| **Lost & Found MFU** | Campus lost-and-found system for Mae Fah Luang University. | `[confirm stack]` |
+### 🇯🇵 [Keigo Companion](https://github.com/Khant-Nyar-Ko-Ko/keigo-trainer) · Japanese Honorifics Trainer
+
+`Next.js` `TypeScript` `Tailwind CSS` `LLM API`
+
+A study app that teaches which keigo register applies to whom, covering uchi/soto, hierarchy and setting, on top of a hand-authored scenario bank. The interesting part is the explain-on-miss system: a deterministic rule-based diagnoser handles the majority of mistakes and an LLM only fires as a capped fallback. That was a deliberate cost and latency trade-off rather than routing everything through a model.
+
+🔗 [Live demo](https://keigocompanion.vercel.app) · [Repo](https://github.com/Khant-Nyar-Ko-Ko/keigo-trainer)
+
+### ♻️ [EcoPoint](https://github.com/Khant-Nyar-Ko-Ko/ecopoint-mvp) · AI-Powered Recycling Rewards
+
+`Python` `FastAPI` `YOLOv8` `OpenCV`
+
+A reverse-vending-machine concept. A YOLOv8 computer vision pipeline verifies bottle deposits in real time and credits the user's rewards instantly, removing the need for dedicated deposit hardware. 2nd Runner-Up at Hylife Hackathon 2025, top 16 out of 120+ teams.
+
+🔗 [Repo](https://github.com/Khant-Nyar-Ko-Ko/ecopoint-mvp)
+
+### 🧭 [LifePath AI](https://github.com/Khant-Nyar-Ko-Ko/life-path) · Youth Life Decision Simulator
+
+`Next.js` `TypeScript` `Tailwind CSS` `Recharts`
+
+A decision-simulation platform for at-risk youth. Users model life choices against an Opportunity Score and Stability Index, check job offers through a contract-safety checker that flags exploitative terms, build scenarios with a drag-and-drop life-event builder, and explore a regional career-demand heatmap. Built for Hug Mae Hackathon 2026.
+
+🔗 [Repo](https://github.com/Khant-Nyar-Ko-Ko/life-path)
+
+### 📱 [Lost & Found MFU](https://github.com/Khant-Nyar-Ko-Ko/Lost-Found-in-MFU)
+
+`Flutter` `Dart` `Firebase`
+
+A cross-platform mobile app published on the Google Play Store and used by the Mae Fah Luang University student body to report and track lost property in real time.
+
+🔗 [Google Play](https://play.google.com/store) `[confirm store link]` · [Repo](https://github.com/Khant-Nyar-Ko-Ko/Lost-Found-in-MFU)
 
 ---
 
@@ -82,10 +107,10 @@ Currently shipping Myanmar's first legal AI SaaS platform while finishing my fin
 
 ## GitHub Stats
 
-<!-- Replace GITHUB_USERNAME below with your actual handle, then delete this comment -->
+<!-- Replace Khant-Nyar-Ko-Ko below with your actual handle, then delete this comment -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Khant-Nyar-Ko-Ko&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant-Nyar-Ko-Ko&layout=compact&hide_border=true)
 
 ---
 
