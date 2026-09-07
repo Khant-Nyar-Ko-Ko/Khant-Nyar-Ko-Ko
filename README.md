@@ -63,7 +63,7 @@ A decision-simulation platform for at-risk youth. Users model life choices again
 
 A cross-platform mobile app published on the Google Play Store and used by the Mae Fah Luang University student body to report and track lost property in real time.
 
-🔗 [Google Play]([[https://play.google.com/store](https://keigocompanion.vercel.app/)](https://play.google.com/store/apps/details?id=com.TechGuys.lost_found_mfu&hl=th) · [Repo](https://github.com/Khant-Nyar-Ko-Ko/Lost-Found-in-MFU)
+🔗 [Google Play](https://play.google.com/store/apps/details?id=com.TechGuys.lost_found_mfu) · [Repo](https://github.com/Khant-Nyar-Ko-Ko/Lost-Found-in-MFU)
 
 ---
 
@@ -107,8 +107,8 @@ A cross-platform mobile app published on the Google Play Store and used by the M
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Khant-Nyar-Ko-Ko&theme=dark&hide_border=true)](https://git.io/streak-stats)
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Khant-Nyar-Ko-Ko&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant-Nyar-Ko-Ko&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
 ---
