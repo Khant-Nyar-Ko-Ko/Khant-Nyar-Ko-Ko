@@ -109,8 +109,6 @@ A cross-platform mobile app published on the Google Play Store and used by the M
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Khant-Nyar-Ko-Ko&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant-Nyar-Ko-Ko&theme=dark&hide_border=true&layout=compact&langs_count=8)
-
 ---
 
 ## Socials
